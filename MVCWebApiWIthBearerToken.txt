@@ -1,0 +1,197 @@
+MVCWebApiWIthBearerToken:
+Steps:
+1. ASP.Net Framework C# => empty=> WEB Api Checked=>Https uncheked.
+2. project name=> right click=> new item=> search box=> startup class=> owin Startup=>
+
+3.
+Packages:
+1.Microsoft.Owin.Host.SystemWeb
+2.Microsoft.Owin.Security.OAuth
+3.Microsoft.Owin.Security
+4.EntityFramework
+5.Microsoft.AspNet.Cors-Version(5.0.0)
+6.Microsoft.Owin.Cors
+
+
+1.. Add=>newitem=>search box(start up)=>owin startup=>startup.cs class
+ae project a client holo postman, Eta server
+
+2.Project=>right click=> New folder=> provider=> AppAuthorizationServerProvider class create=> override
+i.GrantResourceOwnerCredentials
+ii.ValidateClientAuthentication
+
+3. Model folder=> class
+i.User
+ii.Order,OrderItem,Product.
+
+4.Project=>right click=> new folder=>DTOs(Image nite(API <=> client a data transfer kore. kintu server a jay na.like view model))
+
+5. DTOs=> class=> OrderRequest.
+6. DTOs er data porbe je, kivabe explain korbe, er format ki hobe ta mediatype formatter er maddhome korbe.
+7.DTOs=>class=>multipartFormDataFormatter=> MediatypeFormatter k inherit korbe.Implement korbe
+i.canReadType
+ii.CanWriteType
+MediatypeFormatter> mane OrderRequest a je order ache, j image gulo ache ta kivabe format korbe, read korbe na write korbe egulo bole deowa er kaj
+
+8.MultipartFormDataFormatter class ke webApiConfig er moddhe configure kore dibo.
+9.Model=>AppDbContext Class
+10. Webconfig=>connectionstrings set
+11.enable-migrations, Configuration a seed data diye
+12.add-migration init
+13.update-database
+14. Contrillers=> right click=> add=> controller=> web api=> web api Empty controller=> OrderedCOntroller
+
+
+================================================ Problems =======================================
+1. Process with id 12234 is not running. 
+Solution: Delete the .vs file in the project solution. If its not working, Then Build=> Clean the solution=> rebuild.
+
+2.token er jonno postman er body=> x-www-form-urlencoded a, 
+username
+password,
+grant_type diye post method select kore send korte hobe.
+
+3. Order class a ICollection<OrderIatem> er poriborte IEnumerable<OrderItem> diyechi, jar karone orderItem ashe ni, null dekhiyeche
+
+3. token copy kore=> authorization a type barertoken select kore sekhane token pest korbo. 
+row=>json select korbo,
+..../api/order select kore get method a send korbo
+
+4. Post korte
+=> body=> form-data=> Order(nicher format ta), ImageFile(image), ImageFileName(jekono nam) set kore content_type a application/json select kore post method a send korbo. 
+======================post================
+
+{
+        "OrderedItems": [
+            {
+                "ProductId": 1,
+                "Quantity": 1,
+                "Price": 10000.00
+            },
+            {
+                "ProductId": 2,
+                "Quantity": 2,
+                "Price": 5000.00
+            }
+        ],
+       
+        "OrderNo": "A3",
+        "CustomerName": "Sazzadur Sajal",
+        "OrderDate": "2024-09-08T00:00:00",
+        "IsPaid": true,
+        "ImageUrl": "12"
+    }
+
+5.4. Update korte
+=> body=> form-data=> Order(nicher format ta), ImageFile(image), ImageFileName(jekono nam) set kore content_type a application/json select kore post method a send korbo. 
+
+{
+        "OrderedItems": [
+            {
+                 "ProductId": 2,
+                "Quantity": 3,
+                "Price": 30000.00
+            },
+            {    
+                "ProductId": 1,
+                "Quantity": 4,
+                "Price": 100000.00
+            }
+        ],
+        "OrderId": 2,
+        "OrderNo": "A4",
+        "CustomerName": "Safrina nishi",
+        "OrderDate": "2025-01-01T00:00:00",
+        "IsPaid": true,
+        "ImageUrl": "~/Images/acbfaf17-7739-40ca-895e-d60743f2086b.jpg"
+    }
+
+
+
+================================================
+
+
+1. For token
+postman => Body=> x-www-form-urlencoded, 
+username => safrina
+password => 12345
+grant_type => password
+
+diye post method select kore send korte hobe.
+
+2. token=> copy => Authorization => Type => Select=> Bearer token => Paste. 
+
+row=>json,
+
+Post=> http://localhost:50446/api/order => send.
+http://localhost:50239/api/ordere ,,, ordere dite hobe karon controller er nam ae project a ordere likhechi order er poriborte
+
+
+3. Post korte
+=> body=> form-data=>
+key -------------- value ------------ content_type
+Order -------- nicher format ta------ application/json
+ImageFile---- image-----------------  
+ImageFileName ---- jekono nam --------application/json
+set kore, Post method select=> http://localhost:50446/api/order => send. 
+======================post================
+
+{
+        "OrderedItems": [
+            {
+                "ProductId": 1,
+                "Quantity": 1,
+                "Price": 10000.00
+            },
+            {
+                "ProductId": 2,
+                "Quantity": 2,
+                "Price": 5000.00
+            }
+        ],
+       
+        "OrderNo": "A3",
+        "CustomerName": "Sazzadur Sajal",
+        "OrderDate": "2024-09-08T00:00:00",
+        "IsPaid": true,
+        "ImageUrl": "12"
+    }
+
+5.4. Update korte
+=> body=> form-data=>
+key -------------- value ------------ content_type
+Order -------- nicher format ta------ application/json
+ImageFile---- image-----------------  
+ImageFileName ---- jekono nam --------application/json
+set kore, Put method select=> http://localhost:50446/api/order/OrderId=> send. 
+
+{
+        "OrderedItems": [
+            {
+                 "ProductId": 2,
+                "Quantity": 3,
+                "Price": 30000.00
+            },
+            {    
+                "ProductId": 1,
+                "Quantity": 4,
+                "Price": 100000.00
+            }
+        ],
+        "OrderId": 2,
+        "OrderNo": "A4",
+        "CustomerName": "Safrina nishi",
+        "OrderDate": "2025-01-01T00:00:00",
+        "IsPaid": true,
+        "ImageUrl": "~/Images/acbfaf17-7739-40ca-895e-d60743f2086b.jpg"
+    }
+
+
+
+
+
+
+
+
+
+ 

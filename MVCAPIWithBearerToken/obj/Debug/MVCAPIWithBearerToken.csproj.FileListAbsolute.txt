@@ -1,0 +1,340 @@
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\MVCAPIWithBearerToken.dll.config
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\MVCAPIWithBearerToken.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\MVCAPIWithBearerToken.pdb
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\csc.exe
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\csc.exe.config
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\csc.rsp
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\csi.exe
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\csi.exe.config
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\csi.rsp
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Console.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Net.Http.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\vbc.exe
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\vbc.rsp
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\EntityFramework.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.Cors.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.Security.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Owin.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\System.Net.Http.Formatting.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\System.Web.Cors.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\System.Web.Http.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\System.Web.Http.WebHost.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\EntityFramework.xml
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.xml
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.Cors.xml
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.Security.xml
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\System.Net.Http.Formatting.xml
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\System.Web.Http.xml
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\System.Web.Http.WebHost.xml
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\obj\Debug\MVCAPIWithBearerToken.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\obj\Debug\MVCAPIWithBearerToken.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\obj\Debug\MVCAPIWi.EBDA91F5.Up2Date
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\obj\Debug\MVCAPIWithBearerToken.dll
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\obj\Debug\MVCAPIWithBearerToken.pdb
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\obj\Debug\MVCAPIWithBearerToken.Migrations.init.resources
+C:\Users\Lenovo\Desktop\ASP_NetAPIEv\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\obj\Debug\MVCAPIWithBearerToken.csproj.GenerateResource.cache
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\MVCAPIWithBearerToken.dll.config
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\MVCAPIWithBearerToken.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\MVCAPIWithBearerToken.pdb
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\csc.exe
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\csc.exe.config
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\csc.rsp
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\csi.exe
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\csi.exe.config
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\csi.rsp
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.AppContext.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Console.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.IO.Compression.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Net.Http.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.ValueTuple.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\vbc.exe
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\vbc.exe.config
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\vbc.rsp
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\VBCSCompiler.exe
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\EntityFramework.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\EntityFramework.SqlServer.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.Cors.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.Security.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Newtonsoft.Json.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Owin.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\System.Net.Http.Formatting.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\System.Web.Cors.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\System.Web.Http.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\System.Web.Http.WebHost.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\EntityFramework.xml
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\EntityFramework.SqlServer.xml
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.xml
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.Cors.xml
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.Security.xml
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Newtonsoft.Json.xml
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\System.Net.Http.Formatting.xml
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\System.Web.Http.xml
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\System.Web.Http.WebHost.xml
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\obj\Debug\MVCAPIWithBearerToken.csproj.AssemblyReference.cache
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\obj\Debug\MVCAPIWithBearerToken.csproj.CoreCompileInputs.cache
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\obj\Debug\MVCAPIWi.EBDA91F5.Up2Date
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\obj\Debug\MVCAPIWithBearerToken.dll
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\obj\Debug\MVCAPIWithBearerToken.pdb
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\obj\Debug\MVCAPIWithBearerToken.Migrations.init.resources
+C:\Users\SCSL17\Downloads\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\obj\Debug\MVCAPIWithBearerToken.csproj.GenerateResource.cache
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\MVCAPIWithBearerToken.dll.config
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\MVCAPIWithBearerToken.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\MVCAPIWithBearerToken.pdb
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\csc.exe
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\csc.exe.config
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\csc.rsp
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\csi.exe
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\csi.exe.config
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\csi.rsp
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.AppContext.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Collections.Immutable.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Console.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Globalization.Calendars.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.IO.Compression.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.IO.FileSystem.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Net.Http.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Net.Sockets.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Reflection.Metadata.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.ValueTuple.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Xml.XPath.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\vbc.exe
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\vbc.exe.config
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\vbc.rsp
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\VBCSCompiler.exe
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\VBCSCompiler.exe.config
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\EntityFramework.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\EntityFramework.SqlServer.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.Cors.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.Security.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Newtonsoft.Json.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Owin.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\System.Net.Http.Formatting.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\System.Web.Cors.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\System.Web.Http.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\System.Web.Http.WebHost.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\EntityFramework.xml
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\EntityFramework.SqlServer.xml
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.xml
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.Cors.xml
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.Security.xml
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Newtonsoft.Json.xml
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\System.Net.Http.Formatting.xml
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\System.Web.Http.xml
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\System.Web.Http.WebHost.xml
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\obj\Debug\MVCAPIWithBearerToken.csproj.AssemblyReference.cache
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\obj\Debug\MVCAPIWithBearerToken.Migrations.init.resources
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\obj\Debug\MVCAPIWithBearerToken.csproj.GenerateResource.cache
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\obj\Debug\MVCAPIWithBearerToken.csproj.CoreCompileInputs.cache
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\obj\Debug\MVCAPIWi.EBDA91F5.Up2Date
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\obj\Debug\MVCAPIWithBearerToken.dll
+F:\Safrina_Akter_Round-61\Module_8\Problems\MVCAPIWithBearerTokenPrblm\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\obj\Debug\MVCAPIWithBearerToken.pdb
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\MVCAPIWithBearerToken.dll.config
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\MVCAPIWithBearerToken.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\MVCAPIWithBearerToken.pdb
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\csc.exe
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\csc.exe.config
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\csc.rsp
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\csi.exe
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\csi.exe.config
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\csi.rsp
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Console.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Net.Http.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\vbc.exe
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\vbc.rsp
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\EntityFramework.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.Cors.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.Security.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Owin.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\System.Net.Http.Formatting.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\System.Web.Cors.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\System.Web.Http.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\System.Web.Http.WebHost.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\EntityFramework.xml
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.xml
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.Cors.xml
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.Security.xml
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\System.Net.Http.Formatting.xml
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\System.Web.Http.xml
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\System.Web.Http.WebHost.xml
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\obj\Debug\MVCAPIWithBearerToken.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\obj\Debug\MVCAPIWithBearerToken.Migrations.i.resources
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\obj\Debug\MVCAPIWithBearerToken.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\obj\Debug\MVCAPIWithBearerToken.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\obj\Debug\MVCAPIWi.EBDA91F5.Up2Date
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\obj\Debug\MVCAPIWithBearerToken.dll
+C:\Users\Lenovo\Desktop\New folder (2)\MVCAPIWithBearerTokenSln\MVCAPIWithBearerToken\obj\Debug\MVCAPIWithBearerToken.pdb

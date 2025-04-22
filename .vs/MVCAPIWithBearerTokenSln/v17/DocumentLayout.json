@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E147A577-AC55-4753-8EC9-2E03113C3396}|MVCAPIWithBearerToken\\MVCAPIWithBearerToken.csproj|e:\\safrina_akter_61\\masterdetailcrudforjob\\module_8\\mvcapi\\mvcapimdcrudwithbearertoken\\mvcapiwithbearertoken\\projectinfo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E147A577-AC55-4753-8EC9-2E03113C3396}|MVCAPIWithBearerToken\\MVCAPIWithBearerToken.csproj|solutionrelative:mvcapiwithbearertoken\\projectinfo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E147A577-AC55-4753-8EC9-2E03113C3396}|MVCAPIWithBearerToken\\MVCAPIWithBearerToken.csproj|E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\mvcapiwithbearertoken\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E147A577-AC55-4753-8EC9-2E03113C3396}|MVCAPIWithBearerToken\\MVCAPIWithBearerToken.csproj|solutionrelative:mvcapiwithbearertoken\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E147A577-AC55-4753-8EC9-2E03113C3396}|MVCAPIWithBearerToken\\MVCAPIWithBearerToken.csproj|E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\mvcapiwithbearertoken\\provider\\appauthorizationserverprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E147A577-AC55-4753-8EC9-2E03113C3396}|MVCAPIWithBearerToken\\MVCAPIWithBearerToken.csproj|solutionrelative:mvcapiwithbearertoken\\provider\\appauthorizationserverprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E147A577-AC55-4753-8EC9-2E03113C3396}|MVCAPIWithBearerToken\\MVCAPIWithBearerToken.csproj|E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\mvcapiwithbearertoken\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E147A577-AC55-4753-8EC9-2E03113C3396}|MVCAPIWithBearerToken\\MVCAPIWithBearerToken.csproj|solutionrelative:mvcapiwithbearertoken\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E147A577-AC55-4753-8EC9-2E03113C3396}|MVCAPIWithBearerToken\\MVCAPIWithBearerToken.csproj|E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\mvcapiwithbearertoken\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E147A577-AC55-4753-8EC9-2E03113C3396}|MVCAPIWithBearerToken\\MVCAPIWithBearerToken.csproj|solutionrelative:mvcapiwithbearertoken\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E147A577-AC55-4753-8EC9-2E03113C3396}|MVCAPIWithBearerToken\\MVCAPIWithBearerToken.csproj|E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\mvcapiwithbearertoken\\dtos\\multipartformdataformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E147A577-AC55-4753-8EC9-2E03113C3396}|MVCAPIWithBearerToken\\MVCAPIWithBearerToken.csproj|solutionrelative:mvcapiwithbearertoken\\dtos\\multipartformdataformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E147A577-AC55-4753-8EC9-2E03113C3396}|MVCAPIWithBearerToken\\MVCAPIWithBearerToken.csproj|E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\mvcapiwithbearertoken\\dtos\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E147A577-AC55-4753-8EC9-2E03113C3396}|MVCAPIWithBearerToken\\MVCAPIWithBearerToken.csproj|solutionrelative:mvcapiwithbearertoken\\dtos\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E147A577-AC55-4753-8EC9-2E03113C3396}|MVCAPIWithBearerToken\\MVCAPIWithBearerToken.csproj|E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\mvcapiwithbearertoken\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E147A577-AC55-4753-8EC9-2E03113C3396}|MVCAPIWithBearerToken\\MVCAPIWithBearerToken.csproj|solutionrelative:mvcapiwithbearertoken\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E147A577-AC55-4753-8EC9-2E03113C3396}|MVCAPIWithBearerToken\\MVCAPIWithBearerToken.csproj|E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\mvcapiwithbearertoken\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E147A577-AC55-4753-8EC9-2E03113C3396}|MVCAPIWithBearerToken\\MVCAPIWithBearerToken.csproj|solutionrelative:mvcapiwithbearertoken\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E147A577-AC55-4753-8EC9-2E03113C3396}|MVCAPIWithBearerToken\\MVCAPIWithBearerToken.csproj|E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\mvcapiwithbearertoken\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E147A577-AC55-4753-8EC9-2E03113C3396}|MVCAPIWithBearerToken\\MVCAPIWithBearerToken.csproj|solutionrelative:mvcapiwithbearertoken\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E147A577-AC55-4753-8EC9-2E03113C3396}|MVCAPIWithBearerToken\\MVCAPIWithBearerToken.csproj|E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\mvcapiwithbearertoken\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E147A577-AC55-4753-8EC9-2E03113C3396}|MVCAPIWithBearerToken\\MVCAPIWithBearerToken.csproj|solutionrelative:mvcapiwithbearertoken\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E147A577-AC55-4753-8EC9-2E03113C3396}|MVCAPIWithBearerToken\\MVCAPIWithBearerToken.csproj|E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\mvcapiwithbearertoken\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E147A577-AC55-4753-8EC9-2E03113C3396}|MVCAPIWithBearerToken\\MVCAPIWithBearerToken.csproj|solutionrelative:mvcapiwithbearertoken\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E147A577-AC55-4753-8EC9-2E03113C3396}|MVCAPIWithBearerToken\\MVCAPIWithBearerToken.csproj|E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\mvcapiwithbearertoken\\repositories\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E147A577-AC55-4753-8EC9-2E03113C3396}|MVCAPIWithBearerToken\\MVCAPIWithBearerToken.csproj|solutionrelative:mvcapiwithbearertoken\\repositories\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E147A577-AC55-4753-8EC9-2E03113C3396}|MVCAPIWithBearerToken\\MVCAPIWithBearerToken.csproj|E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\mvcapiwithbearertoken\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E147A577-AC55-4753-8EC9-2E03113C3396}|MVCAPIWithBearerToken\\MVCAPIWithBearerToken.csproj|solutionrelative:mvcapiwithbearertoken\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E147A577-AC55-4753-8EC9-2E03113C3396}|MVCAPIWithBearerToken\\MVCAPIWithBearerToken.csproj|E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\mvcapiwithbearertoken\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E147A577-AC55-4753-8EC9-2E03113C3396}|MVCAPIWithBearerToken\\MVCAPIWithBearerToken.csproj|solutionrelative:mvcapiwithbearertoken\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\MVCAPIWithBearerToken\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MVCAPIWithBearerToken\\Models\\AppDbContext.cs",
+              "ToolTip": "E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\MVCAPIWithBearerToken\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "MVCAPIWithBearerToken\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:48:21.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\MVCAPIWithBearerToken\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MVCAPIWithBearerToken\\Models\\User.cs",
+              "ToolTip": "E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\MVCAPIWithBearerToken\\Models\\User.cs",
+              "RelativeToolTip": "MVCAPIWithBearerToken\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:46:33.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\MVCAPIWithBearerToken\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "MVCAPIWithBearerToken\\Migrations\\Configuration.cs",
+              "ToolTip": "E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\MVCAPIWithBearerToken\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "MVCAPIWithBearerToken\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T19:46:21.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\MVCAPIWithBearerToken\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "MVCAPIWithBearerToken\\Models\\Order.cs",
+              "ToolTip": "E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\MVCAPIWithBearerToken\\Models\\Order.cs",
+              "RelativeToolTip": "MVCAPIWithBearerToken\\Models\\Order.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA/wB8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T19:44:44.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextFile1.txt",
+              "DocumentMoniker": "E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\MVCAPIWithBearerToken\\TextFile1.txt",
+              "RelativeDocumentMoniker": "MVCAPIWithBearerToken\\TextFile1.txt",
+              "ToolTip": "E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\MVCAPIWithBearerToken\\TextFile1.txt",
+              "RelativeToolTip": "MVCAPIWithBearerToken\\TextFile1.txt",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-26T18:20:51.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderRequest.cs",
+              "DocumentMoniker": "E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\MVCAPIWithBearerToken\\DTOs\\OrderRequest.cs",
+              "RelativeDocumentMoniker": "MVCAPIWithBearerToken\\DTOs\\OrderRequest.cs",
+              "ToolTip": "E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\MVCAPIWithBearerToken\\DTOs\\OrderRequest.cs",
+              "RelativeToolTip": "MVCAPIWithBearerToken\\DTOs\\OrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T18:08:09.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "packages.config",
+              "DocumentMoniker": "E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\MVCAPIWithBearerToken\\packages.config",
+              "RelativeDocumentMoniker": "MVCAPIWithBearerToken\\packages.config",
+              "ToolTip": "E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\MVCAPIWithBearerToken\\packages.config",
+              "RelativeToolTip": "MVCAPIWithBearerToken\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-26T17:39:47.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectInfo.txt",
+              "DocumentMoniker": "E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\MVCAPIWithBearerToken\\ProjectInfo.txt",
+              "RelativeDocumentMoniker": "MVCAPIWithBearerToken\\ProjectInfo.txt",
+              "ToolTip": "E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\MVCAPIWithBearerToken\\ProjectInfo.txt",
+              "RelativeToolTip": "MVCAPIWithBearerToken\\ProjectInfo.txt",
+              "ViewState": "AgIAAAkBAAAAAAAAAAAAAAQAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-26T17:39:36.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\MVCAPIWithBearerToken\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "MVCAPIWithBearerToken\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\MVCAPIWithBearerToken\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "MVCAPIWithBearerToken\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwIYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T17:29:13.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppAuthorizationServerProvider.cs",
+              "DocumentMoniker": "E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\MVCAPIWithBearerToken\\Provider\\AppAuthorizationServerProvider.cs",
+              "RelativeDocumentMoniker": "MVCAPIWithBearerToken\\Provider\\AppAuthorizationServerProvider.cs",
+              "ToolTip": "E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\MVCAPIWithBearerToken\\Provider\\AppAuthorizationServerProvider.cs",
+              "RelativeToolTip": "MVCAPIWithBearerToken\\Provider\\AppAuthorizationServerProvider.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwD0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T17:25:15.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\MVCAPIWithBearerToken\\Web.config",
+              "RelativeDocumentMoniker": "MVCAPIWithBearerToken\\Web.config",
+              "ToolTip": "E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\MVCAPIWithBearerToken\\Web.config",
+              "RelativeToolTip": "MVCAPIWithBearerToken\\Web.config",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-27T17:48:38.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MultipartFormDataFormatter.cs",
+              "DocumentMoniker": "E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\MVCAPIWithBearerToken\\DTOs\\MultipartFormDataFormatter.cs",
+              "RelativeDocumentMoniker": "MVCAPIWithBearerToken\\DTOs\\MultipartFormDataFormatter.cs",
+              "ToolTip": "E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\MVCAPIWithBearerToken\\DTOs\\MultipartFormDataFormatter.cs",
+              "RelativeToolTip": "MVCAPIWithBearerToken\\DTOs\\MultipartFormDataFormatter.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:54:36.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\MVCAPIWithBearerToken\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "MVCAPIWithBearerToken\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\MVCAPIWithBearerToken\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "MVCAPIWithBearerToken\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:56:16.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\MVCAPIWithBearerToken\\Startup.cs",
+              "RelativeDocumentMoniker": "MVCAPIWithBearerToken\\Startup.cs",
+              "ToolTip": "E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\MVCAPIWithBearerToken\\Startup.cs",
+              "RelativeToolTip": "MVCAPIWithBearerToken\\Startup.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T17:26:58.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\MVCAPIWithBearerToken\\Repositories\\UserRepo.cs",
+              "RelativeDocumentMoniker": "MVCAPIWithBearerToken\\Repositories\\UserRepo.cs",
+              "ToolTip": "E:\\Safrina_Akter_61\\MasterDetailCRUDForJob\\Module_8\\MVCApi\\MVCAPIMDCRUDWithBearerToken\\MVCAPIWithBearerToken\\Repositories\\UserRepo.cs",
+              "RelativeToolTip": "MVCAPIWithBearerToken\\Repositories\\UserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T17:25:54.983Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
